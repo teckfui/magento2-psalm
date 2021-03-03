@@ -1,5 +1,5 @@
 {
-    "name": "visma/magento2-psalm",
+    "name": "tdgroot/magento2-psalm",
     "description": "Psalm plugin for Magento 2",
     "type": "psalm-plugin",
     "license": "MIT",
@@ -7,6 +7,10 @@
         {
             "name": "Marcus Pettersen Irgens",
             "email": "marcus.irgens@visma.com"
+        },
+        {
+            "name": "Timon de Groot",
+            "email": "timon@mooore.nl"
         }
     ],
     "minimum-stability": "stable",
