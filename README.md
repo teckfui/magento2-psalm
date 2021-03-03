@@ -5,8 +5,8 @@ Psalm plugin for Magento 2
 ## Installation
 
 ```shell script
-composer require --dev visma/magento2-psalm
-vendor/bin/psalm-plugin enable visma/magento2-psalm
+composer require --dev tdgroot/magento2-psalm
+vendor/bin/psalm-plugin enable tdgroot/magento2-psalm
 ```
 
 ## Usage
