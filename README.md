@@ -1,4 +1,4 @@
-# visma/magento2-psalm
+# tdgroot/magento2-psalm
 
 Psalm plugin for Magento 2
 
