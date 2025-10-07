@@ -1,5 +1,5 @@
 {
-    "name": "tdgroot/magento2-psalm",
+    "name": "hanesbrands/magento2-psalm",
     "description": "Psalm plugin for Magento 2",
     "type": "psalm-plugin",
     "license": "MIT",
@@ -15,8 +15,8 @@
     ],
     "minimum-stability": "stable",
     "require": {
-        "vimeo/psalm": "^4.0",
-        "php": "^7.3",
+        "vimeo/psalm": "^6.0",
+        "php": "^8.3",
         "ext-simplexml": "*"
     },
     "extra": {
